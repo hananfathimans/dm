@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Product – Marketing Mix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>Product – Academic & Non-Academic Offerings</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="price.html">Price</a>
+    <a href="place.html">Place</a>
+    <a href="promotion.html">Promotion</a>
+</nav>
+
+<section>
+    <h2>Academic Programs</h2>
+    <p>
+        AJCE College offers undergraduate and postgraduate programs in Arts, Science,
+        Commerce, and Computer Applications. The curriculum is regularly updated to
+        match industry requirements and university guidelines.
+    </p>
+
+    <h2>Faculty & Teaching Quality</h2>
+    <p>
+        The college employs highly qualified faculty members with NET/PhD credentials.
+        Mentoring systems, remedial classes, and project guidance enhance student learning.
+    </p>
+
+  <img src="classroom.jpg" alt="Smart Classroom">
+
+    <h2>Infrastructure & Facilities</h2>
+    <ul>
+        <li>Well-equipped laboratories</li>
+        <li>Digital library and e-resources</li>
+        <li>Hostel facilities</li>
+        <li>Sports and recreational facilities</li>
+        <li>Campus-wide Wi-Fi</li>
+    </ul>
+<img src="lab.jpg" alt="Laboratory">
+
+    <h2>Unique Selling Propositions</h2>
+    <p>
+        Strong placement support, skill development programs, and a student-friendly
+        academic environment form the core value proposition of the college.
+    </p>
+</section>
+
+<footer>
+    <p>Product Analysis  – Amal Jyothi College of Engineering, Kanjirappally</p></p>
+</footer>
+
+</body>
+</html>
