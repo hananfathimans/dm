@@ -1,0 +1,47 @@
+
+<html>
+<head>
+    <title>Analysis & Conclusion</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Analysis, Suggestions & Conclusion</h1>
+</header>
+
+<section>
+    <h2>Strengths</h2>
+    <ul>
+        <li>Affordable pricing</li>
+        <li>Qualified faculty</li>
+        <li>Strong placement support</li>
+    </ul>
+
+    <h2>Weaknesses</h2>
+    <ul>
+        <li>Limited international exposure</li>
+        <li>Moderate digital marketing reach</li>
+    </ul>
+
+    <h2>Suggestions</h2>
+    <ol>
+        <li>Enhance online promotions</li>
+        <li>Introduce industry collaborations</li>
+        <li>Improve alumni engagement</li>
+    </ol>
+
+    <h2>Conclusion</h2>
+    <p>
+        Overall, AJCE College effectively applies the 4Ps of marketing to deliver quality
+        education. With minor strategic improvements, the institution can further strengthen
+        its brand image and student satisfaction.
+    </p>
+</section>
+
+<footer>
+    <p>Final Case Study – Student Perspective</p>
+</footer>
+
+</body>
+</html>
