@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Marketing Mix of AMALJYOTHI COLLEGE OF ENGINEERING </title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.ico">
+</head>
+<body>
+
+<header>
+    <h1>AMALJYOTHI COLLEGE OF ENGINEERING</h1>
+    <p>Marketing Mix (4Ps) Case Study</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="product.html">Product</a>
+    <a href="price.html">Price</a>
+    <a href="place.html">Place</a>
+    <a href="promotion.html">Promotion</a>
+    <a href="analysis.html">Analysis & Conclusion</a>
+</nav>
+
+<section>
+    <h2>Introduction</h2>
+    <p>
+        This website presents a detailed Marketing Mix (4Ps) case study of Ajce  In today’s competitive educational environment, colleges must
+        effectively design and communicate their academic offerings, pricing strategies,
+        service delivery methods, and promotional activities to attract and retain students.
+    </p>
+
+    <p>
+        As a student, I analyze how my college applies the four elements of marketing —
+        Product, Price, Place, and Promotion — and evaluate their effectiveness from a
+        learner’s perspective.
+    </p>
+
+    <img src="college.jpg" alt="College Campus">
+</section>
+
+<footer>
+    <p>© 2026 AJCE  | Marketing Mix Case Study</p>
+</footer>
+
+</body>
+</html>
