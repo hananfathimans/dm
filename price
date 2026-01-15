@@ -1,0 +1,60 @@
+
+<html>
+<head>
+    <title>Price – Marketing Mix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Price – Fee Structure & Value</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="product.html">Product</a>
+    <a href="place.html">Place</a>
+    <a href="promotion.html">Promotion</a>
+</nav>
+
+<section>
+    <h2>Fee Structure</h2>
+
+    <table>
+        <tr>
+            <th>Program</th>
+            <th>Annual Fee (₹)</th>
+        </tr>
+        <tr>
+            <td>Btech</td>
+            <td>50,000</td>
+        </tr>
+        <tr>
+            <td>BCA</td>
+            <td>45,000</td>
+        </tr>
+        <tr>
+            <td>MCA</td>
+            <td>50,000</td>
+        </tr>
+    </table>
+
+    <h2>Scholarships & Financial Aid</h2>
+    <ul>
+        <li>Merit-based scholarships</li>
+        <li>Government fee concessions</li>
+        <li>Installment payment options</li>
+    </ul>
+
+    <p>
+        Compared to similar colleges, AJCE College provides good value for money by
+        balancing affordable fees with quality education and infrastructure.
+    </p>
+</section>
+
+<footer>
+    <p>Price Strategy – Amal Jyothi College of Engineering, Kanjirappally</p></p>
+</footer>
+
+</body>
+</html>
