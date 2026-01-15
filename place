@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Place – Marketing Mix</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Place – Location & Service Delivery</h1>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="product.html">Product</a>
+    <a href="price.html">Price</a>
+    <a href="promotion.html">Promotion</a>
+</nav>
+
+<section>
+    <h2>Geographical Location</h2>
+    <p>
+        Amal Jyothi College of Engineering (AJCE) is located at Koovappally,
+        Kanjirappally in Kottayam district, Kerala. The campus is situated in a
+        calm and green environment, away from city congestion, which provides
+        an ideal atmosphere for academic learning and personal development.
+    </p>
+
+    <h2>Accessibility & Connectivity</h2>
+    <p>
+        The college is well connected by road transport and is easily accessible
+        from nearby towns such as Kanjirappally, Ponkunnam, and Erattupetta.
+        Regular bus services operate from Kottayam, Changanassery, and nearby
+        transport hubs, making daily commuting convenient for students and staff.
+    </p>
+
+    <h2>Campus Infrastructure</h2>
+    <p>
+        AJCE has a spacious and well-planned campus with modern academic blocks,
+        laboratories, libraries, hostels, sports facilities, and dining areas.
+        The student-friendly campus layout ensures smooth service delivery and
+        efficient movement between departments.
+    </p>
+
+    <h2>Mode of Service Delivery</h2>
+    <ul>
+        <li>Traditional offline classroom teaching</li>
+        <li>Blended learning with online platforms</li>
+        <li>Learning Management System (LMS) for notes, assignments, and exams</li>
+        <li>Virtual labs, webinars, and online workshops</li>
+        <li>Flexible academic schedules and mentoring support</li>
+    </ul>
+
+    <h2>Residential & Support Facilities</h2>
+    <p>
+        The college provides separate hostels for boys and girls with dining,
+        internet access, and security. Additional facilities such as counseling,
+        medical care, transportation services, and placement support enhance the
+        overall student experience.
+    </p>
+</section>
+
+<footer>
+    <p>Place Analysis – Amal Jyothi College of Engineering, Kanjirappally</p>
+</footer>
+
+</body>
+</html>
